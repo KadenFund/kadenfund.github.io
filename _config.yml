@@ -17,7 +17,7 @@ org_street_address: 955 Skibidi Street #Please include suite number on the line 
 org_city: Cincinnati
 org_state: OH
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  80305
+  12345
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
